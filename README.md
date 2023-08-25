@@ -1,5 +1,5 @@
 # Hi there and Mingrpr, I'm Pai Swan Pyae.Yoroshiku 
-Github name is [AncientYoshi] desu.
+# Github name is [AncientYoshi] desu.
 
 ## I'm a student,newbie Developer, and sometime teach to my friend..
 
@@ -10,8 +10,13 @@ Github name is [AncientYoshi] desu.
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Yuno_Pai?t=6OSuxquECtplY6aCfUnpIA&s=09#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Yuno_Pai?t=6OSuxquECtplY6aCfUnpIA&s=09#gh-dark-mode-only)
+<p>
+  <a href="https://www.facebook.com/profile.php?id=100044842277654&mibextid=b06tZ0"
+    ><img
+      src="facebook.png"
+      style="width: 50px; height: 50px"
+  /></a>
+</p>
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/paing-swan-pyae-a29495270#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paing-swan-pyae-a29495270#gh-dark-mode-only)
