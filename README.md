@@ -21,19 +21,19 @@ Github name is [AncientYoshi] desu.
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Python" width="40px" src="python.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="60px" src="python.png" style="padding-right:10px;" />
 
-<img align="left" alt="Flask" width="40px" src="flask.png" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="60px" src="flask.png" style="padding-right:10px;" />
 
-<img align="left" alt="Django" width="40px" src="django.png" style="padding-right:10px;" />
+<img align="left" alt="Django" width="60px" src="django.png" style="padding-right:10px;" />
 
-<img align="left" alt="Sqlite" width="40px" src="sqlite.png" style="padding-right:10px;" />
+<img align="left" alt="Sqlite" width="60px" src="sqlite.png" style="padding-right:10px;" />
 
-<img align="left" alt="Linux" width="40px" src="linux.png" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="60px" src="linux.png" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
