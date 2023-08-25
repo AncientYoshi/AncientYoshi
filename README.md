@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/profile.php?id=100044842277654&mibextid=b06tZ0"
     ><img
       src="facebook.png"
-      style="width: 50px; height: 50px"
+      style="width: 50px;"
   /></a>
 </p>
 &nbsp;&nbsp;
@@ -22,7 +22,7 @@
   <a href="https://twitter.com/Yuno_Pai?t=6OSuxquECtplY6aCfUnpIA&s=09"
     ><img
       src="x.png"
-      style="width: 50px; height: 50px"
+      style="width: 50px;"
   /></a>
 </p>
 &nbsp;&nbsp;
