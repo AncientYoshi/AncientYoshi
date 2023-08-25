@@ -17,7 +17,6 @@
       style="width: 50px;"
   /></a>
 </p>
-&nbsp;&nbsp;
 <p>
   <a href="https://twitter.com/Yuno_Pai?t=6OSuxquECtplY6aCfUnpIA&s=09"
     ><img
