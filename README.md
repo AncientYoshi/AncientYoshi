@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Yuno_Pai?t=6OSuxquECtplY6aCfUnpIA&s=09#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Yuno_Pai?t=6OSuxquECtplY6aCfUnpIA&s=09#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Yuno_Pai#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Yuno_Pai#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/paing-swan-pyae-a29495270#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paing-swan-pyae-a29495270#gh-dark-mode-only)
