@@ -21,7 +21,7 @@
 <p>
   <a href="https://twitter.com/Yuno_Pai?t=6OSuxquECtplY6aCfUnpIA&s=09"
     ><img
-      src="twitter.png"
+      src="x.png"
       style="width: 50px; height: 50px"
   /></a>
 </p>
