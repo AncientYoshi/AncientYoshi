@@ -6,7 +6,7 @@ Github name is [AncientYoshi] desu.
 - 🌱 I’m currently learning everything,especially backend...
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about web3 and API
-- ⚡ Fun fact: I love to code and playing games and watching anime / drums
+- ⚡ Fun fact: I love to code and playing games and watching anime and Netflix series
 
 ### Connect with me:
 
@@ -35,7 +35,7 @@ Github name is [AncientYoshi] desu.
 
 <img align="left" alt="Linux" width="26px" src="linux.png" style="padding-right:10px;" />
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 
 <br />
