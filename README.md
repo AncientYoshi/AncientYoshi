@@ -19,9 +19,16 @@
       src="x.png"
       style="width: 50px;"
   /></a>
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/pai_swan_pyae?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/pai_swan_pyae?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/paing-swan-pyae-a29495270"
+    ><img align="left"
+      src="linkedin.png"
+      style="width: 50px;"
+  /></a>
+  <a href="https://instagram.com/pai_swan_pyae?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"
+    ><img align="left"
+      src="instagram.png"
+      style="width: 50px;"
+  /></a>
 
 ### Languages and Tools:
 
