@@ -22,13 +22,14 @@
 <a href="https://www.linkedin.com/in/paing-swan-pyae-a29495270"
     ><img align="left"
       src="linkedin.png"
-      style="width: 50px;"
+      style="width: 40px;"
   /></a>
   <a href="https://instagram.com/pai_swan_pyae?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"
     ><img align="left"
       src="instagram.png"
-      style="width: 50px;"
+      style="width: 40px;"
   /></a>
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
