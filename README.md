@@ -9,21 +9,16 @@
 - ⚡ Fun fact: I love to code and playing games and watching anime and Netflix series
 
 ### Connect with me:
-
-<p>
   <a href="https://www.facebook.com/profile.php?id=100044842277654&mibextid=b06tZ0"
     ><img align+="left"
       src="facebook.png"
       style="width: 50px;"
   /></a>
-</p>
-<p>
   <a href="https://twitter.com/Yuno_Pai?t=6OSuxquECtplY6aCfUnpIA&s=09"
     ><img align="left"
       src="x.png"
       style="width: 50px;"
   /></a>
-</p>
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/pai_swan_pyae?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/pai_swan_pyae?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D#gh-dark-mode-only)
