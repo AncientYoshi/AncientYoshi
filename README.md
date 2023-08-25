@@ -10,7 +10,7 @@
 
 ### Connect with me:
   <a href="https://www.facebook.com/profile.php?id=100044842277654&mibextid=b06tZ0"
-    ><img align+="left"
+    ><img align="left"
       src="facebook.png"
       style="width: 50px;"
   /></a>
