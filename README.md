@@ -1,11 +1,11 @@
-# Hi there and Mingrpr, I'm Pai Swan Pyae.Yoroshiku 
-# Github name is [AncientYoshi] desu.
+# Hi there and Mingrpr, I'm Paing Swan Pyae.Yoroshiku よろしくおねがいします。
+# Github name is [AncientYoshi].
 
-## I'm a student,newbie Developer, and sometime teach to my friend..
+## I'm a student,Backend Developer, and sometime teach to my friend..
 
-- 🌱 I’m currently learning everything,especially backend...
+- 🌱 I’m currently learning everything,ai,especially backend...
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more about web3 and API
+- 🥅 2024 Goals: Learn more about web3 and API and machine learning
 - ⚡ Fun fact: I love to code and playing games and watching anime and Netflix series
 
 ### Connect with me:
