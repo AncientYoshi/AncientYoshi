@@ -48,7 +48,10 @@
 
 <img align="left" alt="Linux" width="60px" src="linux.png" style="padding-right:10px;" />
 
-<img align="left" alt="Linux" width="60px" src="javascript-1.svg" style="padding-right:10px; width:40px; height:40px" />
+<img align="left" alt="Javascript" width="60px" src="javascript-1.svg" style="padding-right:10px; width:40px; height:40px" />
+
+<img align="left" alt="Mysql" width="60px" src="mysql-3.svg
+" style="padding-right:10px; width:40px; height:40px" />
 
 <img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
