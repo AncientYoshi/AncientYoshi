@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything,ai,especially backend...
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more about web3 and API and machine learning
+- 🥅 2025 Goals: Learn more about web3 and API and machine learning
 - ⚡ Fun fact: I love to code and playing games and watching anime and Netflix series
 
 ### Connect with me:
